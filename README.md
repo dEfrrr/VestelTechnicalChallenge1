@@ -6,6 +6,8 @@ Clone the repository by running the following command in your command prompt: gi
 
 Open the project in your IDE and import it as a Maven project.
 
+Access the folder where the repository was cloned via command prompt: cd VestelTechnicalChallenge1
+
 Run mvn clean install in command prompt to install dependencies.
 
 To execute the tests, you can either run mvn test in the terminal or run the test method directly from your IDE.
